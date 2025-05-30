@@ -195,7 +195,7 @@ Here are the results
 ![Qdrant Image Search](./qdrant_image_search.png)
 
 ### For Milvus
-![Milvus Image Search](./milvus_image_searc.png)
+![Milvus Image Search](./milvus_image_search.png)
 
 ### For Antarys
 ![Antarys Image Search](./antarys_image_search.png)
