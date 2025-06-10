@@ -32,7 +32,7 @@ For more advance configuration you can pass the following parameters
 --max-results=100               #Default maximum results
 --batch-size=5000               #Default batch size
 --similarity=0.7                #Default similarity threshold
---badger-dir=./metadata         #Path to metadata storage
+--meta-dir=./metadata           #Path to metadata storage
 ```
 
 ## Clients
@@ -117,7 +117,7 @@ For the benchmarks shown below, we used this command
   --cache-size=10000 \
   --enable-hnsw=true \
   --optimization=3 \
-  --badger-dir=./metadata \
+  --meta-dir=./metadata \
   --enable-pq=true
 ```
 
